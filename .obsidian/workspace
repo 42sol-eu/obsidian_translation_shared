@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "discussion/de/core/add.md",
+            "file": "discussion/en/settings/about.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discussion/de/core/add.md",
+                "file": "discussion/en/settings/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "9484f466d6f71717",
   "lastOpenFiles": [
+    "discussion/en/settings/about.md",
+    "discussion/en/settings/x_media/settings-about_20211216.png",
+    "discussion/de/settings/x_media/Settings_Dialog_Überschriften_20211216.png",
+    "discussion/de/settings/settings-dialog.md",
+    "discussion/de/settings/Account.md",
+    "discussion/de/core/hotkeys.md",
     "discussion/de/core/add.md",
     "discussion/de/core/community.md",
     "discussion/de/core/embedd.md",
-    "discussion/de/core/plugins.md",
-    "discussion/de/settings/settings-dialog.md",
-    "discussion/de/settings/x_media/Settings_Dialog_Überschriften_20211216.png",
-    "discussion/de/core/hotkeys.md",
-    "discussion/de/_readme_discussion-de.md",
-    "discussion/de/core/global.md",
-    "discussion/de/core/link.md"
+    "discussion/de/core/plugins.md"
   ]
 }
