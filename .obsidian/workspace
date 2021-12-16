@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9484f466d6f71717",
+        "id": "3924cfa332bcdb24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "discussion/en/settings/about.md",
+            "file": "discussion/todo_checklist.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1d274b3dfa904391",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "discussion/de/settings/x_media/Settings_Dialog_Überschriften_20211216.png"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discussion/en/settings/about.md",
+                "file": "discussion/todo_checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9484f466d6f71717",
+  "active": "3924cfa332bcdb24",
   "lastOpenFiles": [
-    "discussion/en/settings/about.md",
-    "discussion/en/settings/x_media/settings-about_20211216.png",
-    "discussion/de/settings/x_media/Settings_Dialog_Überschriften_20211216.png",
-    "discussion/de/settings/settings-dialog.md",
-    "discussion/de/settings/Account.md",
-    "discussion/de/core/hotkeys.md",
-    "discussion/de/core/add.md",
-    "discussion/de/core/community.md",
+    "discussion/todo_checklist.md",
+    "discussion/de/formatting/list-intendation.md",
+    "discussion/de/formatting/bold-italic-and-more.md",
+    "discussion/de/core/on-and-off.md",
+    "discussion/de/core/plugins.md",
     "discussion/de/core/embedd.md",
-    "discussion/de/core/plugins.md"
+    "discussion/de/core/global.md",
+    "discussion/de/aim.md",
+    "discussion/en/settings/about.md",
+    "discussion/de/settings/x_media/Settings_Dialog_Überschriften_20211216.png"
   ]
 }
