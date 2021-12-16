@@ -14,7 +14,7 @@ Shared translation resources for Obsidian.
 > Let's try that!
 > [felix@42sol.eu](mailto:felix@24sol.eu)
 
-- I found editing in complex JSON-files not very easy so I used some scripts to improve the translators experiance [[_gears/readme]]
+- I found editing in complex JSON-files not very easy so I used some scripts to improve the translators experiance [[Y_gears/Readme]]
 
 
 ## Content In This Vault

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "term_base/de/Term-base.md",
+            "file": "discussion/de/discussion-de.md",
             "mode": "source"
           }
         }
@@ -18,66 +18,84 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "96ec307c7addbe9c",
-    "type": "mobile-drawer",
+    "id": "e382efdbedb92d97",
+    "type": "split",
     "children": [
       {
-        "id": "9aa4a59d55b3f667",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "41de4a34f3888ba1",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b04f3265cea6b685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02000d82e49e6c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ae9efbdad7636df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "f74ae013f64e730a",
-    "type": "mobile-drawer",
+    "id": "123250bb43868b12",
+    "type": "split",
     "children": [
       {
-        "id": "5f2229dd25aa7323",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "term_base/de/Term-base.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "cb007ad479d45ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90431036136d048a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "discussion/de/discussion-de.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "26e1ecce9568ac87",
   "lastOpenFiles": [
-    "term_base/de/Term-base.md",
+    "discussion/de/discussion-de.md",
+    "people/de/translators.md",
+    "people/maintainers.md",
+    "people/readme.md",
+    "Y_gears/scripts/Python/reamde-gears-scripts-python.md",
+    "Y_gears/templates/Templater/readme-gears-templates-templater.md",
+    "Y_gears/scripts/Templater/readme-gears-scripts-templater.md",
     "open-source-2021.md",
-    "_gears/Readme.md",
-    "readme.md",
     "discussion/en/readme.md",
-    "term_base/readme.md"
+    "Y_gears/Readme.md"
   ]
 }

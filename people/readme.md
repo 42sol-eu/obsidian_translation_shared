@@ -1,6 +1,6 @@
 # Readme: People working on this Vault
 
-[[people/maintainer]]
+[[maintainers]]
 
 ## Translators
 
