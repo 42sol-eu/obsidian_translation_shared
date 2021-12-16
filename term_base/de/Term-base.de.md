@@ -1,6 +1,8 @@
+## [de] Term-Base 
 
 **Legend:**
 - C&C:: compact & very common in daily usage
+
 
 > NOTE:
 > This table was generated from the other translations
