@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "discussion/de/discussion-de.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discussion/de/discussion-de.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "26e1ecce9568ac87",
   "lastOpenFiles": [
+    "readme.md",
     "discussion/de/discussion-de.md",
     "people/de/translators.md",
     "people/maintainers.md",
@@ -95,7 +96,6 @@
     "Y_gears/templates/Templater/readme-gears-templates-templater.md",
     "Y_gears/scripts/Templater/readme-gears-scripts-templater.md",
     "open-source-2021.md",
-    "discussion/en/readme.md",
-    "Y_gears/Readme.md"
+    "discussion/en/readme.md"
   ]
 }
