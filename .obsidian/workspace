@@ -1,102 +1,83 @@
 {
   "main": {
-    "id": "722479baf36f397b",
+    "id": "9f7e7fc0981873d6",
     "type": "split",
     "children": [
       {
-        "id": "3924cfa332bcdb24",
+        "id": "f44aed088c069f10",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "discussion/todo_checklist.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e382efdbedb92d97",
-    "type": "split",
+    "id": "96ec307c7addbe9c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b04f3265cea6b685",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a02000d82e49e6c9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ae9efbdad7636df",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "9aa4a59d55b3f667",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "41de4a34f3888ba1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "123250bb43868b12",
-    "type": "split",
+    "id": "f74ae013f64e730a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "cb007ad479d45ef6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90431036136d048a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "discussion/todo_checklist.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
+        "id": "5f2229dd25aa7323",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "3924cfa332bcdb24",
+  "active": "f44aed088c069f10",
   "lastOpenFiles": [
-    "discussion/todo_checklist.md",
-    "discussion/de/formatting/list-intendation.md",
     "discussion/de/formatting/bold-italic-and-more.md",
-    "discussion/de/core/on-and-off.md",
-    "discussion/de/core/plugins.md",
-    "discussion/de/core/embedd.md",
-    "discussion/de/core/global.md",
-    "discussion/de/aim.md",
-    "discussion/en/settings/about.md",
-    "discussion/de/settings/x_media/Settings_Dialog_Überschriften_20211216.png"
+    "discussion/de/formatting/list-intendation.md",
+    "discussion/de/editing/editing_and_format.md",
+    "discussion/de/editing/Carret.md",
+    "term_base/de/Term-base.md",
+    "open-source-2021.md",
+    "_gears/Readme.md",
+    "readme.md",
+    "discussion/en/readme.md",
+    "term_base/readme.md"
   ]
 }
