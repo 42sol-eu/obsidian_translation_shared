@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ab33a99d7cd34a91",
+        "id": "a56836afb9916dfa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "people/fa/translators.md",
-            "mode": "source"
+            "file": "term_base/de/Term-base.de.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "right": {
     "id": "123250bb43868b12",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/fa/translators.md",
+                "file": "term_base/de/Term-base.de.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ab33a99d7cd34a91",
+  "active": "a56836afb9916dfa",
   "lastOpenFiles": [
-    "people/fa/translators.md",
+    "term_base/de/Term-base.de.md",
+    "term_base/ru/ru.termbase.md",
+    "term_base/pt-BR/pt-BR.termbase.md",
+    "term_base/ja/ja.termbase.md",
+    "term_base/fa/fa.guidelines.md",
+    "Y_gears/templates/Templater/translator.md",
+    "people/de/translators.md",
     "people/ja/translators.md",
     "people/pt-BR/translators.md",
-    "people/ru/translators.md",
-    "people/readme.md",
-    "discussion/en/helpful-scripts.md",
-    "term_base/de/term-base.de.md",
-    "discussion/en/translations.md",
-    "readme.md",
-    "discussion/de/discussion-de.md"
+    "Y_gears/templates/Templater/readme-gears-templates-templater.md"
   ]
 }
