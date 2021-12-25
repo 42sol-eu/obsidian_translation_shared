@@ -7,8 +7,8 @@ This folder holds the content of the tools and templates for using the Vault and
 
 | Folder       | Note                                                                                      | Reference                    |
 | ------------ | ----------------------------------------------------------------------------------------- | ---------------------------- |
-| `_scripts`  | Files and folders to help the translator to better work with the given translations files | [[_gears/_scripts/readme]]   |
-| `_templates` | Files to be used as teplamtes, either manually or with the Templater-plugin               | [[_gears/_templates/readme]] |
+| `_scripts`  | Files and folders to help the translator to better work with the given translations files | [[Y_gears/scripts/readme]]   |
+| `_templates` | Files to be used as teplamtes, either manually or with the Templater-plugin               | [[Y_gears/templates/readme]] |
 | `plugins`    | Documentation of the generally used plugins in this vault                                 | [[_gears/_plugins/readme]]   |
 
 
