@@ -8,7 +8,7 @@ The content of this Obsidian Vault is and will be created by many people.
 
 Let's try do give the credit to them.
 
-- [[people/de/translators]]
+- [[translators.de]]
 - [[people/ja/translators]]
 - [[people/ru/translators]]
 - [[people/pt-BR/translators]]

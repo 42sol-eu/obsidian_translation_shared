@@ -1,0 +1,6 @@
+[setup]
+language='de'
+project_path = 'C:/__sync/obs_translation_shared'
+
+[files]
+termbase='{{project_path}}/term_base/{{language}}/Term-base.{{language}}.md'
