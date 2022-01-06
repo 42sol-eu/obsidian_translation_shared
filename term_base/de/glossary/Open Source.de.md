@@ -2,13 +2,12 @@
 ---
 term:      "Open Source"
 use:       "Open Source"
-choices:   ["--"]
-avoid:     ["[[open-source-2021\"]
+choices:   []
+avoid:     ["Software aus öffentlichen Quellen"]
 reference: 11        
 state:     fixed
 date:      "2022-01-05"
-
 ---
 
 ## Diskussion
-Term
+[[open-source-2021]]

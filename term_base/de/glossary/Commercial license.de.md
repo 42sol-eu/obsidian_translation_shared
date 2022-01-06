@@ -5,7 +5,7 @@ use:       "Kommerzielle Lizenz"
 choices:   []
 avoid:     []
 reference: 41b        
-state:     open
+state:     waiting
 date:      "2022-01-05"
 
 ---

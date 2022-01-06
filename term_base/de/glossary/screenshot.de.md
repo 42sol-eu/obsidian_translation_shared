@@ -2,10 +2,10 @@
 ---
 term:      "screenshot"
 use:       "Screenshot"
-choices:   []
+choices:   ["Bildschirmfoto"]
 avoid:     []
 reference: 620        
-state:     open
+state:     check_usage
 date:      "2022-01-05"
 
 ---
