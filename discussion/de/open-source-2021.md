@@ -1,5 +1,8 @@
 ---
-lang: de
+lang: en
+authors: ["felix@42sol.eu"]
+effective-date: "2020-01-06"
+tags: ["#structure"]
 ---
 # Open-Source 
 

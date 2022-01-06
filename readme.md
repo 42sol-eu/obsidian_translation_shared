@@ -1,3 +1,10 @@
+---
+lang: en
+authors: ["felix@42sol.eu"]
+effective-date: "2020-01-06"
+tags: ["#structure", "#readme", "#needs_a_native_review"]
+---
+
 # Readme: Obsidian Translation Shared
 
 > Shared translation resources for Obsidian.
