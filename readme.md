@@ -17,21 +17,7 @@ Shared translation resources for Obsidian.
 - I found editing in complex JSON-files not very easy so I used some scripts to improve the translators experiance [[Y_gears/Readme]]
 
 
-## Content In This Vault
+> IMPORTANT: 
+> we from the German team decided to simplify, we moved our term-base out of this vault see at [https://github.com/42sol/termbase_de_shared](https://github.com/42sol/termbase_de_shared) 
+> OR contact us on Discord.
 
-If this vault is used as planned by more than the German Translators it may contain many languages in its notes. 
-
-> Please use the meta-data to define the languages of a note
-> **Feel free to write discussion in you native language**
-> **Keep the content open and friendly - hosting the content on my Github I may have to delete content that does not follow this rules**
-
-
-## Content 
-
-- Term-base (or glossary) for better group decission and documentation for special choices and options
-
-
-## Usage
-
-- TODO: add used plugins
-- TODO: your own modifications of this Vault

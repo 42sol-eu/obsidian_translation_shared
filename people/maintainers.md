@@ -1,3 +1,0 @@
-# Mainters of This Obsidian Vault 
-
-TODO: fill this ...

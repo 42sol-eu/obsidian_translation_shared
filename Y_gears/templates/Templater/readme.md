@@ -1,5 +1,0 @@
-# Readme - Templates
-
-- [[translator]]
-- [[maintainer]]
-
